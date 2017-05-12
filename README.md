@@ -1,12 +1,12 @@
-###### STEP 1
+## STEP 1
 
-## Data Creation Steps For Administrator. Need to do in sequence
+###### Data Creation Steps For Administrator. Need to do in sequence
 - Add Teachers
 - Add Classrooms 
 - Add Students
 - Add Tests
 
-###### STEP 2
+## STEP 2
 
 1. Login as a student (username/password) 
 2. Click on Start button
